@@ -1,7 +1,7 @@
 function feat = featuresFromBuffer(atx, aty, atz, fs)
 % featuresFromBuffer Extract vector of features from raw data buffer
 % 
-% Copyright 2014-2015 The MathWorks, Inc.
+
 
 % Initialize digital filter
 persistent fhp
